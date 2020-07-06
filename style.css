@@ -9,13 +9,8 @@ body{
     background-color:white ;
 }
 
-.retour{
-    background-color: #aed1e6;
-}
-
 .logo{
     width: 54%;
-
 }
 
    
@@ -47,7 +42,7 @@ p{
 }
 
 .footer{
-    background-color: #8DC63D;
+    background-color: #87D0E3;
     text-align: center;
     padding:20px;
     margin-top: 20px;
