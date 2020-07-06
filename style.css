@@ -1,0 +1,154 @@
+
+/*accueil*/
+*{
+    margin: 3px 0 0 0;
+    padding: 0;
+     
+}
+body{
+    background-color:white ;
+    
+}.retour{
+    background-color: #aed1e6;
+}
+
+.logo{
+    width: 54%;
+
+}
+
+   
+.carousel-item img{
+    height: 30%;
+    width: auto;
+}
+.h3-responsive{
+    font-size: 70px;
+    color: #0E1015;
+    font-weight: bold;
+}
+.page{
+    font-size: 50px;
+    color:#0E1015;
+}
+
+h2,h3{
+    font-size: 30px;
+    color: #aed1e6;
+}
+
+p{
+    font-size: 20px;
+}
+
+.card-footer{
+    text-align: center;
+}
+
+.carousel-caption{
+    background-color: rgba(255, 255, 255,0.7);
+}
+/*specialité*/
+.specialite{
+    background-color: #8DC63D;
+    color:#0E1015;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+        
+}
+
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+    color: #0E1015;
+    
+}
+h5{
+font-size: 30px;
+font-weight: bold;
+
+}
+
+.text{
+    font-size: 20px;
+    
+}
+
+/*circuit*/
+
+.jumb{
+    background: url('../images/lotus.jpg');
+    background-size: cover;
+    text-align: center;
+    height: 40em;
+
+}
+
+.fas{
+    color: yellow;
+}
+
+.display-4{
+    color: white;
+    font-size: 50px;
+}
+.display-3{
+    color: yellow;
+    font-size: 50px;
+}
+
+.lead{
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+.photos{
+    margin-top: 160px;
+
+}
+
+/*blog*/
+
+
+
+.block-article-wide {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.block-article {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0px;
+    min-height: 465px;
+}
+
+/*contact*/
+
+li.nav-item:hover{
+    background-color: #8DC63D;
+    margin:4px;
+}
+li.nav-item:hover{
+    font-weight: 600;
+}
+
+.nav-link{
+    color: #8DC63D;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+.nav-link:hover{
+    color: white;
+ 
+}
