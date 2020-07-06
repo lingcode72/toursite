@@ -23,11 +23,33 @@ body{
     color: #0E1015;
     font-weight: bold;
 }
-.page{
+.voyage1{
     font-size: 50px;
-    color:#0E1015;
+    font-weight: bold;
+    color: #C67F1E;
 }
-
+.ravioli{
+    font-size: 40px;
+    color: #BD4B80;
+}
+.voyage2{
+    font-size: 50px;
+    font-weight: bold;
+    color: #610E04;
+}
+.hotpot{
+    font-size: 40px;
+    color: #B72A29;
+}
+.voyage3{
+    font-size: 50px;
+    font-weight: bold;
+    color: #BE3611;
+}
+.duck{
+    font-size: 40px;
+    color: #E87502;
+}
 h2{
     font-size: 30px;
     color: #87D0E3;
@@ -49,14 +71,10 @@ p{
 }
 
 .carousel-caption{
-    background-color: rgba(255, 255, 255,0.7);
+    background-color: rgba(255, 255, 255,0.6);
 }
 
 /*specialité*/
-.specialite{
-    color:#0E1015;
-}
-
 h2{
     font-size: 30px;
     font-weight: bold;     
