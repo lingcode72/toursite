@@ -51,24 +51,23 @@ p{
 .carousel-caption{
     background-color: rgba(255, 255, 255,0.7);
 }
+
 /*specialité*/
 .specialite{
-    background-color: #8DC63D;
     color:#0E1015;
 }
 
 h2{
     font-size: 30px;
-    font-weight: bold;
-    padding: 10px;
-        
+    font-weight: bold;     
 }
 
 h3{
     font-size: 30px;
     font-weight: bold;
-    padding-top: 10px;   
+    margin-bottom: 10px;
 }
+
 h5{
 font-size: 30px;
 font-weight: bold;
@@ -151,4 +150,7 @@ li.nav-item:hover{
     color: white;
  
 }
-
+/*contact*/
+.button{
+    text-align: center;
+}
