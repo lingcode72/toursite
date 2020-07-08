@@ -7,6 +7,7 @@
 }
 body{
     background-color:white ;
+    font-family: 'Lora', serif;
 }
 
 .logo{
@@ -92,8 +93,7 @@ p{
 }
 
 /*specialité*/
-h2{
-    font-size: 30px;
+h2{    
     font-weight: bold;     
 }
 
@@ -164,6 +164,14 @@ font-weight: bold;
     min-height: 465px;
 }
 
+
+.culinaire{
+    padding: 10px;
+}
+.local{
+    padding:10px;
+}
+
 /*contact*/
 .button{
     text-align: center;
@@ -171,4 +179,18 @@ font-weight: bold;
 .contact{
     font-size: 25px;
     color: #87D0E3;
+}
+footer{
+    background-color: #87D0E3;
+    height: 100px;
+    text-align: center;
+    color: #30616d;
+    }
+.icon a:hover{
+    color: #30616d;
+
+}
+li{
+    display: inline;
+    list-style: none;
 }
