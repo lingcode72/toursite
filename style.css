@@ -13,6 +13,23 @@ body{
     width: 54%;
 }
 
+li.nav-item:hover{
+    background-color: #8DC63D;
+    margin:4px;
+}
+li.nav-item:hover{
+    font-weight: 600;
+}
+
+.nav-link{
+    color: #8DC63D!important; 
+    font-weight: 600;
+    font-size: 1.2em;
+}
+.nav-link:hover{
+    color: white;
+ 
+}
    
 .carousel-item img{
     height: 30%;
@@ -128,13 +145,11 @@ font-weight: bold;
 }
 
 .photos{
-    margin-top: 160px;
+    margin-top: 170px;
 
 }
 
 /*blog*/
-
-
 
 .block-article-wide {
     background-color: white;
@@ -150,25 +165,10 @@ font-weight: bold;
 }
 
 /*contact*/
-
-li.nav-item:hover{
-    background-color: #8DC63D;
-    margin:4px;
-}
-li.nav-item:hover{
-    font-weight: 600;
-}
-
-.nav-link{
-    color: #8DC63D;
-    font-weight: 600;
-    font-size: 1.2em;
-}
-.nav-link:hover{
-    color: white;
- 
-}
-/*contact*/
 .button{
     text-align: center;
+}
+.contact{
+    font-size: 25px;
+    color: #87D0E3;
 }
