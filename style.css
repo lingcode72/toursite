@@ -1,6 +1,4 @@
 
-/*accueil*/
-
 body{
     background-color:white ;
     font-family: 'Lora', serif;
@@ -28,7 +26,8 @@ li.nav-item:hover{
     color: white!important;
  
 }
-   
+
+  /*accueil*/ 
 .carousel-item img{
     height: 30%;
     width: auto;
