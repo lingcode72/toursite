@@ -154,7 +154,9 @@ font-weight: bold;
     margin: 10px 0px;
     min-height: 465px;
 }
-
+.Quanjude{
+    padding:23px;
+}
 /*contact*/
 .button{
     text-align: center;
