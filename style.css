@@ -109,7 +109,8 @@ font-weight: bold;
     background: url('/images/lotus.jpg');
     background-size: cover;
     text-align: center;
-    height: 50em;
+    height: 45em;
+    margin: 0em;
 }
 #jumbo{
     margin: 0px;
@@ -134,9 +135,9 @@ font-weight: bold;
 }
 
 .photos{
-   margin-top: 400px;
-}
-
+    margin-top: 20px;
+ }
+ 
 /*blog*/
 
 .block-article-wide {
