@@ -152,8 +152,10 @@ font-weight: bold;
     margin: 10px 0px;
     min-height: 465px;
 }
-.Quanjude{
-    padding:23px;
+h6{
+    font-weight: bold;
+    font-size: 20px;
+    padding:4px;
 }
 /*contact*/
 .button{
@@ -172,9 +174,7 @@ font-weight: bold;
 .text-center{
     color:white;
 }
-.container-fluid{
-padding: 50px;
-}
+
 /*footer*/
 footer{
     background-color: #87D0E3;
